@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente participo do Bootcamp Da Generaion Brasil para ser uma Desenvolvadora Full Stack Java Jr.
+- 💻: Atualmente participo do Bootcamp Da Generaion Brasil para ser uma Desenvolvadora Full Stack Java Jr.
 
 <div align="center">
   <a href="https://github.com/anacarolyna">
