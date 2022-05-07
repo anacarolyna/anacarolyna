@@ -1,4 +1,4 @@
-name: Sanake Game
+name: Snake Game
 
 on:
   schedule: # execute every 12 hours
