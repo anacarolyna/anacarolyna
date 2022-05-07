@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Sanake Game
 
 on:
   schedule: # execute every 12 hours
