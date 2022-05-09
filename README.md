@@ -11,7 +11,7 @@
 </div>
   
   ##
-  #### Linguagens usadas:
+  #### Tecnologias usadas:
   
   
   <div style="display: inline_block"><br>
