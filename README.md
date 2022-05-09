@@ -11,8 +11,7 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=anacarolyna&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolyna&layout=compact&langs_count=7&theme=moltack"/>
 </div>
-  
-  #### Tecnologias usadas:
+
   <div style="display: inline_block"><br>
   <img align="center" alt= "Ana-Java" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Ana-MySQL" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
