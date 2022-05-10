@@ -5,7 +5,6 @@
 </div> 
 
 - 💻: Atualmente participo do Bootcamp da Generaion Brasil para ser uma Desenvolvadora Java Web Full Stack Jr.
-
 <div align="center">
   <a href="https://github.com/anacarolyna">
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=anacarolyna&show_icons=true&theme=moltack&include_all_commits=false&count_private=true"/>
@@ -24,13 +23,14 @@
    
 </div>
   
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
    #### Contato:
   
   <div> 
   <a href = "mailto:dinizanacarolyna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anacarolynadiniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
+   
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
   
    ![Snake animation](https://github.com/anacarolyna/anacarolyna/blob/output/github-contribution-grid-snake.svg)
     
