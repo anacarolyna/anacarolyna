@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Carolyna 👋
 ##
 <div>
-<img align="right" alt="Ana-Violin"  width="20%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
+<img align="right" alt="Ana-Violin"  width="27%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
 </div> 
 
 - 💻: Atualmente participo do Bootcamp da Generaion Brasil para ser uma Desenvolvadora Java Web Full Stack Jr.
