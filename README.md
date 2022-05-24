@@ -1,11 +1,12 @@
 ### Olá! Eu sou a Ana Carolyna 👋
 ##
-<div>
-<img align="right" alt="Ana-Violin"  width="27%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
-</div> 
+
 
 - 💻: Atualmente participo do Bootcamp da Generaion Brasil para ser uma Desenvolvadora Java Web Full Stack Jr.
-<div align="center">
+
+  <div> 
+<img align="right" alt="Ana-Violin"  width="30%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
+</div> 
   <a href="https://github.com/anacarolyna">
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=anacarolyna&show_icons=true&theme=moltack&include_all_commits=false&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolyna&layout=compact&langs_count=7&theme=moltack"/>
