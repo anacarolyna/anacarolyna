@@ -9,8 +9,8 @@
 </div> 
 
   <a href="https://github.com/anacarolyna">
-  <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=anacarolyna&show_icons=true&theme=moltack&include_all_commits=false&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolyna&layout=compact&langs_count=7&theme=moltack"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=anacarolyna&show_icons=true&theme=moltack&include_all_commits=false&count_private=true"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolyna&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
   <div style="display: inline_block"><br>
