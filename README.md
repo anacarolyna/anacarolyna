@@ -10,7 +10,7 @@
 
   <a href="https://github.com/anacarolyna">
   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=anacarolyna&show_icons=true&theme=moltack&include_all_commits=false&count_private=true"/>
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolyna&layout=compact&langs_count=7&theme=moltack"/>
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolyna&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
   <div style="display: inline_block"><br>
