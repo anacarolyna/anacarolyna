@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Carolyna 👋
+### Olá! Eu sou a Ana Carolyna 👋🏼
 ##
 
 
