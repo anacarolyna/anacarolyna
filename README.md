@@ -3,6 +3,7 @@
 
 
 - 💻: Formada como Desenvolvedora Web Java Full Stack Jr. pela Generation Brasil (2022)
+- 👩‍💻: Estou no último semestre da faculdade de Sistemas para Internet.
 
   <div> 
 <img align="right" alt="Ana-Violin"  width="17%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
