@@ -2,7 +2,7 @@
 ##
 
 
-- 💻: Formada no Bootcamp da Generaion Brasil para ser uma Desenvolvadora Java Web Full Stack Jr.
+- 💻: Formada como Desenvolvedora Web Java Full Stack Jr. pela Generation Brasil (2022)
 
   <div> 
 <img align="right" alt="Ana-Violin"  width="17%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
