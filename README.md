@@ -6,7 +6,7 @@
 - 👩‍💻: Estou no último semestre da faculdade de Sistemas para Internet.
 
   <div> 
-<img align="right" alt="Ana-Violin"  width="17%" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
+<img align="right" alt="Ana-Violin"   height="165" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
 </div> 
 
   <a href="https://github.com/anacarolyna">
