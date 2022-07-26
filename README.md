@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Ana Carolyna 👋🏼
 ##
 
-
+- 👩‍💻: Formada em Sistemas para internet pelo Centro Universitário Sumaré (2022)
 - 💻: Formada como Desenvolvedora Web Java Full Stack Jr. pela Generation Brasil (2022)
-- 👩‍💻: Estou no último semestre da faculdade de Sistemas para Internet.
+
 
   <div> 
 <img align="right" alt="Ana-Violin"   height="140" src="https://media.giphy.com/media/Mca7OsfIy0FaXaQfsb/giphy.gif">
