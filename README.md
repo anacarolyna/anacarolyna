@@ -3,6 +3,7 @@
 
 - 👩‍💻: Formada em Sistemas para internet pelo Centro Universitário Sumaré (2022)
 - 💻: Formada como Desenvolvedora Web Java Full Stack Jr. pela Generation Brasil (2022)
+- 👩🏻‍💻🖥: Trainee de Sitemas na Minsait!
 
 
   <div> 
